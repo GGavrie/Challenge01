@@ -34,4 +34,10 @@ console.log("Is Available:", isAvailable, "Type:", typeof isAvailable);
  let message = "Welcome, " + customerName + "!";
  console.log(message);
 
+ // Task 5 Access Control
+let isLoggedIn = true;
+// Logical Operations-Not
+console.log(`User is logged in: ${isLoggedIn}`);
+console.log(`User is not logged in: ${!isLoggedIn}`);
+
 
