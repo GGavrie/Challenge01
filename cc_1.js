@@ -15,7 +15,7 @@ console.log("Product Name:", productName, "Type:", typeof productName);
 console.log("Product Price:", productPrice, "Type:", typeof productPrice);
 console.log("Is Available:", isAvailable, "Type:", typeof isAvailable);
 
- // Task 3 Financial Transactions.
+ // Task 3 Financial Transactions
  let accountBalance = 5000;  
  accountBalance += 200;      // Add 200
  console.log("Balance after adding 200:", accountBalance);
