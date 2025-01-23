@@ -28,3 +28,10 @@ console.log("Is Available:", isAvailable, "Type:", typeof isAvailable);
 
  accountBalance /= 2;        // Divide by 2
  console.log("Balance after dividing by 2:", accountBalance);
+
+ //Task 4 Customer Messaging
+ let customerName = "Jason Calliste";
+ let message = "Welcome, " + customerName + "!";
+ console.log(message);
+
+
